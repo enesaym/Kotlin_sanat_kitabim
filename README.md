@@ -1,2 +1,2 @@
 # Kotlin sanat kitabım
- Kotlin and sql lite
+ Sqlite database kullanilarak verilerin kaydedilmesini sağlayan kotlin mobil uygulaması
